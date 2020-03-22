@@ -1,0 +1,34 @@
+A1 - mountain
+A2 - forest
+A3 - sea
+A4 - island
+
+
+B1 - swamp
+B2 - lake
+B3 - plains
+B4 - sea
+
+
+C1 - farm
+C2 - forest
+C3 - home
+C4 - docks
+
+
+D1 - camp
+D2 - shop
+D3 - plains
+D4 - tavern
+
+
+
+
+In each one of these areas there will be a 
+- different type of monster 
+- a missing page of a journal
+- loot
+
+
+A4 - shte ima pust lager sus skelet na otdvna umrql muzh
+D3 - shte ima murtuv chovek, piqnica ot barcheto, koi go e ubil ? lets find out
